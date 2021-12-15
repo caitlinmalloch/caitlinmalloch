@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @caitlinmalloch!
+- 🌱 I’m currently learning data analysis and full-stack development.
+- 💞️ I’m looking to collaborate on any project that will help me learn new skills in data analysis and programming. 
+- 📫 Reach me by email at caitlin.malloch@gmail.com. 
