@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Caitlin Malloch</h1>
-<h3 align="center">A Project Manager working on Vancouver Island, Canada- focus on tech and data in the public sector</h3>
+<h1 align="center">👋 Hi, I’m Cait</h1>
+<h3 align="center">🌿 Sr. PM Analyst | Aspiring Data Product Owner</h3>
+<p align="center">📊 Passionate about data, UX, and ethical AI</p>
+<p align="center">🎓 Certified Scrum Product Owner (CSPO) | Certified Scrum Master (CSM)</p>
+<p align="center">📍 Based on Vancouver Island | Tech + Data in the Public Sector</p>
 
 <p align="left"> <a href="https://twitter.com/caitlinmalloch" target="blank"><img src="https://img.shields.io/twitter/follow/caitlinmalloch?logo=twitter&style=for-the-badge" alt="caitlinmalloch" /></a> </p>
 
