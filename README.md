@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Cait</h1>
-<h3 align="center">🌿 Sr. PM Analyst | Aspiring Data Product Owner</h3>
+<h3 align="center">🌿 Sr. Project Management Analyst- BC Data Service | Aspiring Data Product Owner</h3>
 <p align="center">📊 Passionate about data, UX, and ethical AI</p>
 <p align="center">🎓 Certified Scrum Product Owner (CSPO) | Certified Scrum Master (CSM)</p>
 <p align="center">📍 Based on Vancouver Island | Tech + Data in the Public Sector</p>
